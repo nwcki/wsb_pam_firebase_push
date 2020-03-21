@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680565106652",
+    "firebase_url": "https://wsb-test-68263.firebaseio.com",
+    "project_id": "wsb-test-68263",
+    "storage_bucket": "wsb-test-68263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680565106652:android:a13eb7edbc8b44c3abd119",
+        "android_client_info": {
+          "package_name": "pl.knowicki.wsb.firebasepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680565106652-i8nnbefjtfjipqdeuvps1quqkk2a3v7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUBLxH6laXXQh62kqfVVk4RlLZxKWbUW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680565106652-i8nnbefjtfjipqdeuvps1quqkk2a3v7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
