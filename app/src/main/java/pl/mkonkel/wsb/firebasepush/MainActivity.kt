@@ -1,4 +1,4 @@
-package pl.mkonkel.wsb.firebasepush
+package pl.knowicki.wsb.firebasepush
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package pl.mkonkel.wsb.firebasepush
+package pl.knowicki.wsb.firebasepush
 
 import android.annotation.SuppressLint
 import android.os.Bundle
